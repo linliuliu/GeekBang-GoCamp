@@ -10,6 +10,8 @@ require (
 	github.com/ghodss/yaml v1.0.0
 	github.com/golang/protobuf v1.5.2
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	gorm.io/driver/mysql v1.3.2
+	gorm.io/gorm v1.23.3
 	learn.go v0.0.0-00010101000000-000000000000
 )
 
